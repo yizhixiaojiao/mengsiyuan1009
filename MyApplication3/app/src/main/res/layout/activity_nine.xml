@@ -10,7 +10,7 @@
         android:id="@+id/view"
         android:layout_width="350dp"
         android:layout_height="200dp"
-        android:background="@drawable/button_pressed_orig"
+        android:background="@drawable/button_pressed"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
